@@ -1,4 +1,4 @@
-# 👋 Hi, I'm GingerImpasto 
+# 👋 Hi, I'm Anir Ballal
 
 ### Frontend Developer | UI Enthusiast | CSS Art Lover
 
@@ -35,10 +35,8 @@ I craft beautiful, responsive, and accessible web experiences. Passionate about 
 
 ### 📫 Let's Connect!
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/GingerImpasto)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gingerimpasto)
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/GingerImpasto)
-
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Anir_Ballal)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=vercel&logoColor=white)](https://anirballal.me)
 ---
 
 ⭐ From [GingerImpasto](https://github.com/GingerImpasto)
