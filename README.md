@@ -21,7 +21,7 @@ I craft beautiful, responsive, and accessible web experiences. Passionate about 
 ### 🎨 My Projects
 
 - **[Ludo Game](https://github.com/GingerImpasto/ludo-game) | [Live Demo](https://ludo-game-chi-three.vercel.app/)** – Classic Ludo board game implementation  
-- **[OrangeChat](https://www.anirballal.me/projects/orange-chat) | [Live Demo](https://github.com/GingerImpasto/orange-chat)** – Real-time chat application  
+- **[OrangeChat](https://www.anirballal.me/projects/orange-chat) | [Live Demo](https://orangechat-kzif.onrender.com/)** – Real-time chat application  
 - **[Dungeon Quest](https://www.anirballal.me/projects/dungeon-quest) | [Live Demo](https://dungeon-quest-six.vercel.app/)** – Vertical platformer adventure game  
 - **[Samurai Fighter](https://www.anirballal.me/projects/samurai-fighter) | [Live Demo](https://samurai-fighter-pied.vercel.app/)** – 2D fighting game  
 
