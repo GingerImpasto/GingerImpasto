@@ -20,9 +20,10 @@ I craft beautiful, responsive, and accessible web experiences. Passionate about 
 
 ### 🎨 My Projects
 
-- **[CSS Art Gallery](https://github.com/GingerImpasto/css-art-gallery)** – A collection of pure CSS illustrations  
-- **[Animated Login Form](https://github.com/GingerImpasto/animated-login)** – Micro-interactions & smooth transitions  
-- **[Accessible Component Library](https://github.com/GingerImpasto/ui-library)** – WCAG-compliant React components  
+- **[Ludo Game](https://github.com/GingerImpasto/ludo-game) | [Live Demo](https://ludo-game-chi-three.vercel.app/)** – Classic Ludo board game implementation  
+- **[OrangeChat](https://www.anirballal.me/projects/orange-chat) | [Live Demo](https://github.com/GingerImpasto/orange-chat)** – Real-time chat application  
+- **[Dungeon Quest](https://www.anirballal.me/projects/dungeon-quest) | [Live Demo](https://dungeon-quest-six.vercel.app/)** – Vertical platformer adventure game  
+- **[Samurai Fighter](https://www.anirballal.me/projects/samurai-fighter) | [Live Demo](https://samurai-fighter-pied.vercel.app/)** – 2D fighting game  
 
 ---
 
