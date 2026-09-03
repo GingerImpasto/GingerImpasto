@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Anir Ballal 👋
 
-<!--
-**GingerImpasto/GingerImpasto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Independent Developer & Freelance Engineer**  
+> Designing & engineering high-performance web systems for global brands.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+* Partnering with startups, agency partners, and tech-driven enterprises to deliver modern digital experiences and scalable cloud architecture.
+* Bridge the gap between complex backend platforms and fluid, interactive web applications (streaming interfaces, high-throughput SaaS engines, robust systems for scale).
+* Available for full end-to-end development, targeted technical architecture, and fractional engineering engagements.
+
+---
+
+### 🛠️ Services & Focus
+* **Full-Stack Web Development:** Building responsive, pixel-perfect, and ultra-fast web applications using modern TypeScript, React, and Next.js ecosystems.
+* **Cloud Architecture & APIs:** Designing microservices, real-time WebSocket pipelines, and scalable cloud deployments on AWS and GCP.
+* **Interactive & Media Web:** Crafting low-latency streaming applications, interactive 3D web experiences with WebGL/Three.js, and high-concurrency interfaces.
+
+---
+
+### 💻 Technologies & Stack
+
+* **Core Stack:** TypeScript, React / Next.js, Node.js, Express, Tailwind CSS
+* **Cloud & Infrastructure:** AWS (EKS, Lambda, S3), Google Cloud, PostgreSQL, Docker, Microservices
+* **Specialized & Experimental:** React Three Fiber, WebSockets, HLS / Media Streaming, Python, Rust
