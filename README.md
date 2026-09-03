@@ -1,6 +1,6 @@
 # Hi there, I'm Anir Ballal 👋
 
-> **Independent Developer & Freelance Engineer**  
+> **Full Stack Developer & Freelance Engineer**  
 > Designing & engineering high-performance web systems for global brands.
 
 ---
